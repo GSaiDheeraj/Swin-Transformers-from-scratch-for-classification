@@ -1,5 +1,7 @@
 # Swin-Transformers-from-scratch
 
+Paper: https://arxiv.org/pdf/2103.14030.pdf
+
 ![image](https://user-images.githubusercontent.com/60067496/203227984-a126de0d-2d70-48e5-8fe8-46e707b4ff34.png)
 
 shifted window approach for computing self-attention in the proposed Swin Transformer architecture. In layer l (left), a regular window partitioning scheme is
